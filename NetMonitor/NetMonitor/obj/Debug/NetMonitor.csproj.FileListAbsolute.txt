@@ -1,0 +1,6 @@
+c:\users\me\documents\visual studio 2015\Projects\PYTHON\NetMonitor\NetMonitor\bin\Debug\NetMonitor.exe.config
+C:\Users\Me\Documents\Visual Studio 2015\Projects\PYTHON\NetMonitor\NetMonitor\obj\Debug\NetMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Me\Documents\Visual Studio 2015\Projects\PYTHON\NetMonitor\NetMonitor\bin\Debug\NetMonitor.exe
+C:\Users\Me\Documents\Visual Studio 2015\Projects\PYTHON\NetMonitor\NetMonitor\bin\Debug\NetMonitor.pdb
+C:\Users\Me\Documents\Visual Studio 2015\Projects\PYTHON\NetMonitor\NetMonitor\obj\Debug\NetMonitor.exe
+C:\Users\Me\Documents\Visual Studio 2015\Projects\PYTHON\NetMonitor\NetMonitor\obj\Debug\NetMonitor.pdb
